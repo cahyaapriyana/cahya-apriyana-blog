@@ -55,6 +55,7 @@ A modern personal portfolio website built with PHP and Tailwind CSS. This websit
 
 ```bash
 git clone https://github.com/cahyaapriyana/personal-portfolio-cahya-apriyana.git
+)
 ```
 
 2. Set up your database
