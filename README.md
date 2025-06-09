@@ -109,7 +109,7 @@ This project is open source and available under the MIT License.
 
 **Cahya Apriyana**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@yourusername](https://github.com/cahyaapriyana)
 
 ## 🙏 Acknowledgments
 
